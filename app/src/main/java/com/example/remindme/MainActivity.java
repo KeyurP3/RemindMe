@@ -1,13 +1,12 @@
 package com.example.remindme;
 
-import androidx.annotation.NonNull;
-import androidx.appcompat.app.AppCompatActivity;
-import androidx.appcompat.widget.Toolbar;
-import androidx.fragment.app.Fragment;
-import androidx.fragment.app.FragmentTransaction;
-
 import android.os.Bundle;
 import android.view.MenuItem;
+
+import androidx.annotation.NonNull;
+import androidx.appcompat.app.AppCompatActivity;
+import androidx.fragment.app.Fragment;
+import androidx.fragment.app.FragmentTransaction;
 
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 
@@ -30,12 +29,12 @@ public class MainActivity extends AppCompatActivity {
 
                 switch (item.getItemId()){
 
-                    case R.id.alarm:
-                        openFragment(new AlarmFragment());
-                        return true;
-
                     case R.id.home:
                         openFragment(new HomeFragment());
+                        return true;
+
+                    case R.id.alarm:
+                        openFragment(new AlarmFragment());
                         return true;
 
                     case R.id.timer:

@@ -3,11 +3,17 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/150181/AndroidStudioProjects/RemindMe/app/src/main/res/drawable/circle_progress_bar.xml" value="0.1785" />
+        <entry key="..\:/Users/150181/AndroidStudioProjects/RemindMe/app/src/main/res/drawable/circle_shape.xml" value="0.1785" />
+        <entry key="..\:/Users/150181/AndroidStudioProjects/RemindMe/app/src/main/res/drawable/ic_stat_notify_timer.xml" value="0.1785" />
         <entry key="..\:/Users/150181/AndroidStudioProjects/RemindMe/app/src/main/res/drawable/ic_stopwatch_foreground.xml" value="0.1" />
         <entry key="..\:/Users/150181/AndroidStudioProjects/RemindMe/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Users/150181/AndroidStudioProjects/RemindMe/app/src/main/res/layout/fragment_alarm.xml" value="0.1796875" />
         <entry key="..\:/Users/150181/AndroidStudioProjects/RemindMe/app/src/main/res/layout/fragment_home.xml" value="0.1796875" />
         <entry key="..\:/Users/150181/AndroidStudioProjects/RemindMe/app/src/main/res/layout/fragment_stopwatch.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/150181/AndroidStudioProjects/RemindMe/app/src/main/res/layout/partial_line.xml" value="0.1796875" />
+        <entry key="..\:/Users/150181/AndroidStudioProjects/RemindMe/app/src/main/res/layout/partial_notification.xml" value="0.1796875" />
+        <entry key="..\:/Users/150181/AndroidStudioProjects/RemindMe/app/src/main/res/layout/partial_timer_picker.xml" value="0.1796875" />
         <entry key="..\:/Users/150181/AndroidStudioProjects/RemindMe/app/src/main/res/menu/bottom_nav_menu.xml" value="0.1796875" />
       </map>
     </option>
